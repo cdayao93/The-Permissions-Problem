@@ -2,7 +2,7 @@
 
 Write a report that will be shared with executive leadership describing:  
 The problem
-How I solved the problem
+How you solved the problem
 How StackFull Software can improve the confidentiality of the Splunk configuration file so only authorized users can modify it. 
 How the md5sum command can be used to monitor the integrity of the file
 
